@@ -1,4 +1,8 @@
-# denytheempire
+# Deny The Empire
+
+![album artwork](https://github.com/joduplessis/denytheempire/blob/main/img/main.jpg)
+
+
 
 > Band website for Deny The Empire from 2009/2010 (retired)
 
